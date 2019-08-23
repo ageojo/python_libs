@@ -4,8 +4,8 @@
 
 
 
-# Install all dask components
-dask_side[https://docs.dask.org/en/latest/install.html]
+### Install all Dask components
+[Dask website](https://docs.dask.org/en/latest/install.html)
 
 
 The following command installs dask and all dependencies (including, `NumPy`, `Pandas`, `Toolz`, `Tornado`) required by following dask modules:  `dask.array`, `dask.dataframe`, `dask.delayed`, `dask.distributed`
