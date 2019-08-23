@@ -4,7 +4,11 @@
 
 
 
-### Install all Dask components
+### Dask
+- parallel processing library for scalable, distributed computing in Python
+- memory-efficient parallel arrays, dataframes & lists that extend functionality of Numpy, Pandas, & Python iterators, while maintaining familiar interface
+- computation optimized dynamic task schedulers (similar to Celery, Make, Airflow) that operate over collections
+
 [Dask website](https://docs.dask.org/en/latest/install.html)
 
 
