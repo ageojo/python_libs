@@ -1,6 +1,6 @@
 
 
-# Dask tutorials were developed by AlexK! 
+** Dask tutorials developed by Alex K. ** 
 
 
 
