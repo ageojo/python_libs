@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+dask = {extras = ["complete"],version = "*"}
+jupyter = "*"
+h5py = "*"
+pandas = "*"
+numpy = "*"
+distributed = "*"
+
+[requires]
+python_version = "3.6"
